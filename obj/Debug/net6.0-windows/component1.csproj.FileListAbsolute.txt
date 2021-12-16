@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\component1\component1\obj\Debug\net6.0-windows\component1.Form1.resources
+C:\Users\Hp\source\repos\component1\component1\obj\Debug\net6.0-windows\component1.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\component1\component1\obj\Debug\net6.0-windows\component1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\component1\component1\obj\Debug\net6.0-windows\component1.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\component1\component1\obj\Debug\net6.0-windows\component1.AssemblyInfo.cs
+C:\Users\Hp\source\repos\component1\component1\obj\Debug\net6.0-windows\component1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\component1\component1\bin\Debug\net6.0-windows\component1.exe
+C:\Users\Hp\source\repos\component1\component1\bin\Debug\net6.0-windows\component1.deps.json
+C:\Users\Hp\source\repos\component1\component1\bin\Debug\net6.0-windows\component1.runtimeconfig.json
+C:\Users\Hp\source\repos\component1\component1\bin\Debug\net6.0-windows\component1.dll
+C:\Users\Hp\source\repos\component1\component1\bin\Debug\net6.0-windows\ref\component1.dll
+C:\Users\Hp\source\repos\component1\component1\bin\Debug\net6.0-windows\component1.pdb
+C:\Users\Hp\source\repos\component1\component1\obj\Debug\net6.0-windows\component1.dll
+C:\Users\Hp\source\repos\component1\component1\obj\Debug\net6.0-windows\ref\component1.dll
+C:\Users\Hp\source\repos\component1\component1\obj\Debug\net6.0-windows\component1.pdb
+C:\Users\Hp\source\repos\component1\component1\obj\Debug\net6.0-windows\component1.genruntimeconfig.cache
